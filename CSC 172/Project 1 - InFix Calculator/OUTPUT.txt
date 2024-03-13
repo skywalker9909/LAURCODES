@@ -1,0 +1,11 @@
+CS PROJECT 1
+
+LAUREL RAEANNE TAY
+LTAY3@U.ROCHESTER.EDU
+OCTOBER 18TH 2023
+
+Compile: javac URCalculator.java 
+
+Run: java URCalculator infix_expr_short.txt my_eval.txt
+
+"To use: java URCalculator input_file output_file"
